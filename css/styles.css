@@ -20,14 +20,18 @@ body {
 }
 
 .tea-items p {
-    background-color: darkgoldenrod;
+    /* background-color: darkgoldenrod; */
     display: inline-block;
 }
 
 .tea-flavor {
+    width: 50%;
+    background-color: chartreuse;
     text-align: left;
 }
 
 .tea-price {
+    width: 50%;
+    background-color: blanchedalmond;
     text-align: right;
 }
