@@ -19,6 +19,11 @@ body {
   margin-right: auto;
 }
 
+.tea-items {
+    background-color: darkgoldenrod;
+    display: inline-block;
+}
+
 .tea-flavor {
     text-align: left;
 }
