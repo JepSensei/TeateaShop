@@ -22,3 +22,7 @@ body {
 .tea-flavor {
     text-align: left;
 }
+
+.tea-price {
+    text-align: right;
+}
