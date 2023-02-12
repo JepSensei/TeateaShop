@@ -5,3 +5,8 @@ h1, h2, p {
 body {
     background-color:rgb(169, 169, 169);
 }
+
+div{
+    width: 300px;
+    background-color: rgba(0, 255, 255, 0.336);
+}
