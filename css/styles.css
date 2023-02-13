@@ -17,6 +17,7 @@ p {
 
 h1{
   font-size: 40px;
+  margin: 0;
 }
 
 h2 {
@@ -36,7 +37,8 @@ h2 {
 }
 
 .bottom-line {
-  margin-bottom: 25px;
+  margin-top: 25px;
+  margin-bottom: 30px;
 }
 
 .tea-menu {
