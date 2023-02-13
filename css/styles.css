@@ -28,19 +28,24 @@ p {
   padding: 20px;
 }
 
+.established {
+  font-style: italic;
+}
+
 .tea-items p {
   /* background-color: darkgoldenrod; */
   display: inline-block;
+  font-weight: 400;
 }
 
 .tea-flavor, .collections-flavor {
   width: 75%;
-  background-color: chartreuse;
+  /* background-color: chartreuse; */
   text-align: left;
 }
 
 .tea-price, .collections-price {
   width: 25%;
-  background-color: blanchedalmond;
+  /* background-color: blanchedalmond; */
   text-align: right;
 }
