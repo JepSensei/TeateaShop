@@ -26,6 +26,9 @@ h2 {
   height: 2px;
   background-color: rgba(255, 127, 80, 0.897);
   border-color: rgb(136, 95, 5);
+  box-shadow: 90px 54px 19px -5px rgb(232, 147, 87);
+  -webkit-box-shadow: 90px 54px 19px -5px rgb(232, 147, 87);
+  -moz-box-shadow: 90px 54px 19px -5px rgb(232, 147, 87);
 }
 
 .tea-menu {
