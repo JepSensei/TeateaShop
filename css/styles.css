@@ -1,14 +1,17 @@
-h1,
-h2,
-p {
-  text-align: center;
-}
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Space+Grotesk:wght@500&display=swap");
 
 body {
   /* background-color:rgb(169, 169, 169); */
   background-image: url("https://images.pexels.com/photos/733761/pexels-photo-733761.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
 }
 
 .tea-menu {
@@ -20,18 +23,18 @@ body {
 }
 
 .tea-items p {
-    /* background-color: darkgoldenrod; */
-    display: inline-block;
+  /* background-color: darkgoldenrod; */
+  display: inline-block;
 }
 
 .tea-flavor {
-    width: 75%;
-    background-color: chartreuse;
-    text-align: left;
+  width: 75%;
+  background-color: chartreuse;
+  text-align: left;
 }
 
 .tea-price {
-    width: 25%;
-    background-color: blanchedalmond;
-    text-align: right;
+  width: 25%;
+  background-color: blanchedalmond;
+  text-align: right;
 }
