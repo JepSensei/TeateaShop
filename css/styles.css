@@ -14,6 +14,14 @@ p {
   text-align: center;
 }
 
+h1{
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
 .tea-menu {
   width: 80%;
   max-width: 500px;
