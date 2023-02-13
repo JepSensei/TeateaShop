@@ -22,7 +22,7 @@ h2 {
   font-size: 35px;
 }
 
-hr {
+.top-line, .bottom-line {
   height: 2px;
   background-color: rgba(255, 127, 80, 0.897);
   border-color: rgb(136, 95, 5);
