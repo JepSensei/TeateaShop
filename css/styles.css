@@ -31,6 +31,13 @@ h2 {
   -webkit-box-shadow: 90px 54px 19px -5px rgb(232, 147, 87);
   -moz-box-shadow: 90px 54px 19px -5px rgb(232, 147, 87);
 }
+.top-line {
+  margin-top: 25px;
+}
+
+.bottom-line {
+  margin-bottom: 25px;
+}
 
 .tea-menu {
   width: 80%;
