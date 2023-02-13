@@ -27,13 +27,13 @@ p {
   display: inline-block;
 }
 
-.tea-flavor {
+.tea-flavor, .collections-flavor {
   width: 75%;
   background-color: chartreuse;
   text-align: left;
 }
 
-.tea-price {
+.tea-price, .collections-price {
   width: 25%;
   background-color: blanchedalmond;
   text-align: right;
