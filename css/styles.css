@@ -25,13 +25,13 @@ body {
 }
 
 .tea-flavor {
-    width: 50%;
+    width: 75%;
     background-color: chartreuse;
     text-align: left;
 }
 
 .tea-price {
-    width: 50%;
+    width: 25%;
     background-color: blanchedalmond;
     text-align: right;
 }
