@@ -54,6 +54,7 @@ h2 {
   /* background-color: darkgoldenrod; */
   display: inline-block;
   font-weight: 400;
+  margin: 5px 0px;
 }
 
 .tea-flavor, .collections-flavor {
